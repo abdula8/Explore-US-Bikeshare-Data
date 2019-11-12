@@ -4,7 +4,7 @@ import numpy as np
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
-#definition of input month function
+#definition of input month function.
 def get_month():
     month_option=['junuary','february','march','april','may','june','july','august','september','october','november','december']
     while True:
@@ -13,7 +13,7 @@ def get_month():
         if(month in month_option):
             break
     return month
-#definition of input day function
+#definition of input day function.
 def get_day():
     days_option=['sunday','monday','tuesday','wednesday','thursday','friday','saturday']
     while True:
