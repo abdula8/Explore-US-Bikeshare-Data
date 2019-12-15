@@ -3,9 +3,9 @@ This project related to **Programming for Data Science Nanodegree** from Udacity
 ## Database name 
 Bike Share systems for three major cities in the United States—Chicago, New York City, and Washington.
 ## Software used
-1- Python3, NumPy, and pandas installed using Anacoda.
-2- VScode.
-3- Git Bash.
+1. Python3, NumPy, and pandas installed using Anacoda.
+2. VScode.
+3. Git Bash.
 ## Statistics Computed
 ### 1 Popular times of travel (i.e., occurs most often in the start time)
 most common month
