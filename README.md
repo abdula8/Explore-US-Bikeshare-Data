@@ -1,4 +1,4 @@
-# bikeshare-2
+# Explore US Bikeshare Data
 This project related to **Programming for Data Science Nanodegree** from Udacity.
 ## Database name 
 Bike Share systems for three major cities in the United States—Chicago, New York City, and Washington.
